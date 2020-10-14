@@ -40,7 +40,6 @@
                 "de_stmarc" ""
                 "de_bank" ""
                 "de_safehouse" ""
-                "test"
             }
         }
     }
