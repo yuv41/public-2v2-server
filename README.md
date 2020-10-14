@@ -1,6 +1,6 @@
 # HvH Wingman Server Plugins Pack
 <p align=center>
-Plugin pack is made for running a fully automatic Wingman server for HvH
+This plugin pack is made for running a fully automatic Wingman server for HvH
 
 # Installation & Compiling
  + To install this sourcecode you'll need to compile all the plugins on your own.
