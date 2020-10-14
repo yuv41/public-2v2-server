@@ -16,7 +16,7 @@ Plugin pack is made for running a fully automatic Wingman server for HvH
  <br><img src=https://img.shibe.host/HAZU2/jEBeLate07.png/raw width=550 height=350>
  + Replace all existing files to update sourcemods core includes.
  + Select all .sp files and drag them in compile.exe
- <br><img src="https://img.shibe.host/HAZU2/zeRefAmU15.gif/raw" width="550" height="350" controls preload></video>
- + Now all your compiled plugins should be in a new folder in *addons/sourcemod/scripting/compiled/*
- + Copy all .smx files from the folder to *addons/sourcemod/plugins*
+ <br><img src="https://img.shibe.host/HAZU2/zeRefAmU15.gif/raw" width="550" height="350">
+ + Now all your compiled plugins should be in a new folder in "*addons/sourcemod/scripting/compiled/*"
+ + Copy all .smx files from the folder to "*addons/sourcemod/plugins*"
  + Upload the files to a CS:GO server that has [Sourcemod](https://www.sourcemod.net/downloads.php?branch=stable#) & [Metamod](https://www.sourcemm.net/downloads.php?branch=stable) installed
