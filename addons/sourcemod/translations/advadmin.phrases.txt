@@ -245,16 +245,6 @@
 		"#format"	"{1:t},{2:s}"
 		"en"		"{green}[NewVision]{default} {1}'s speed set to: {2}"
 	}
-	//-----GOD-----//
-	"CMD_God_Usage"
-	{
-		"en"		"{green}[NewVision]{default} Usage: sm_god <target> <[0/1] off/on>"
-	}
-	"CMD_God"
-	{
-		"#format"	"{1:t},{2:i}"
-		"en"		"{green}[NewVision]{default} {1}'s godmode set to: {2}"
-	}
 	//-----HELMET-----//
 	"CMD_Helmet_Usage"
 	{
