@@ -1,6 +1,6 @@
 #pragma semicolon  1
 
-#define PLUGIN_VERSION "3.0.3.Kento.33.2"
+#define PLUGIN_VERSION "3.0.3.Kento.33.3"
 
 #include <sourcemod> 
 #include <adminmenu>
@@ -1176,7 +1176,7 @@ public Action EventPlayerDeath(Handle event, const char [] name, bool dontBroadc
 			g_aStats[attacker].SCORE += g_PointsWall;
 			g_aSession[attacker].SCORE += g_PointsWall;
 			if (g_bChatChange && g_PointsWall > 0)
-				if(!hidechat[attacker])	CPrintToChat(attacker, "%s %T", MSG, "Wallbang", attacker, g_aClientName[attacker], g_aStats[attacker].SCORE, g_PointsSmoke);
+				if(!hidechat[attacker])	CPrintToChat(attacker, "%s %T", MSG, "Wallbang", attacker, g_aClientName[attacker], g_aStats[attacker].SCORE, g_PointsWall);
 		}
 
 		/* First blood */
